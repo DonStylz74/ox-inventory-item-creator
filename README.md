@@ -9,6 +9,10 @@ This PowerShell script is designed to help you create Ox inventory items quickly
 
 2. Fill in the details for your item.
 
+3. Click the create item button to complete.
+
+Note on completion of item creation you will be promoted if you need to create another item.
+
 Any fields left blank will not be included in the final item data.
 
 For example, if you do not fill in the server export data, it will not be added to the final export file.
