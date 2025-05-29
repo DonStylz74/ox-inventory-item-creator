@@ -30,11 +30,11 @@ Comprehensive Fields – Covers most fields required for Ox item creation. (See 
 
 
 
-**App Main Screen:**
+**Main Screen:**
 
 ![image](https://github.com/user-attachments/assets/b0ff655b-a6e0-48cb-9768-0822421ae69d)
 
 
-**App Output file:**
+**Output file:**
 
 ![image](https://github.com/user-attachments/assets/1fc61a9f-8345-479c-a0f4-6190532c6ae9)
